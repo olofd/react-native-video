@@ -1,7 +1,7 @@
-#import "RCTConvert.h"
+#import <React/RCTConvert.h>
 #import "RCTVideo.h"
-#import "RCTBridgeModule.h"
-#import "RCTEventDispatcher.h"
+#import <React/RCTBridgeModule.h>
+#import <React/RCTEventDispatcher.h>
 #import "UIView+React.h"
 
 static NSString *const statusKeyPath = @"status";
